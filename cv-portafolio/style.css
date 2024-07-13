@@ -272,6 +272,12 @@ p {
   background-color: var(--hero-opacity-color);
 }
 
+.hero-image-opacity-2 {
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--hero-opacity-color);
+}
+
 .hero-title {
   font-size: 7.5vw;
   color: var(--hero-color-title);
